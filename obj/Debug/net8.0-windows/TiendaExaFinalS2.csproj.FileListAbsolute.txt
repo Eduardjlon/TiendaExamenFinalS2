@@ -1,0 +1,16 @@
+C:\Users\Spoti\Desktop\ExamenFinal\TiendaExaFinalS2\bin\Debug\net8.0-windows\TiendaExaFinalS2.exe
+C:\Users\Spoti\Desktop\ExamenFinal\TiendaExaFinalS2\bin\Debug\net8.0-windows\TiendaExaFinalS2.deps.json
+C:\Users\Spoti\Desktop\ExamenFinal\TiendaExaFinalS2\bin\Debug\net8.0-windows\TiendaExaFinalS2.runtimeconfig.json
+C:\Users\Spoti\Desktop\ExamenFinal\TiendaExaFinalS2\bin\Debug\net8.0-windows\TiendaExaFinalS2.dll
+C:\Users\Spoti\Desktop\ExamenFinal\TiendaExaFinalS2\bin\Debug\net8.0-windows\TiendaExaFinalS2.pdb
+C:\Users\Spoti\Desktop\ExamenFinal\TiendaExaFinalS2\obj\Debug\net8.0-windows\TiendaExaFinalS2.Form1.resources
+C:\Users\Spoti\Desktop\ExamenFinal\TiendaExaFinalS2\obj\Debug\net8.0-windows\TiendaExaFinalS2.csproj.GenerateResource.cache
+C:\Users\Spoti\Desktop\ExamenFinal\TiendaExaFinalS2\obj\Debug\net8.0-windows\TiendaExaFinalS2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Spoti\Desktop\ExamenFinal\TiendaExaFinalS2\obj\Debug\net8.0-windows\TiendaExaFinalS2.AssemblyInfoInputs.cache
+C:\Users\Spoti\Desktop\ExamenFinal\TiendaExaFinalS2\obj\Debug\net8.0-windows\TiendaExaFinalS2.AssemblyInfo.cs
+C:\Users\Spoti\Desktop\ExamenFinal\TiendaExaFinalS2\obj\Debug\net8.0-windows\TiendaExaFinalS2.csproj.CoreCompileInputs.cache
+C:\Users\Spoti\Desktop\ExamenFinal\TiendaExaFinalS2\obj\Debug\net8.0-windows\TiendaExaFinalS2.dll
+C:\Users\Spoti\Desktop\ExamenFinal\TiendaExaFinalS2\obj\Debug\net8.0-windows\refint\TiendaExaFinalS2.dll
+C:\Users\Spoti\Desktop\ExamenFinal\TiendaExaFinalS2\obj\Debug\net8.0-windows\TiendaExaFinalS2.pdb
+C:\Users\Spoti\Desktop\ExamenFinal\TiendaExaFinalS2\obj\Debug\net8.0-windows\TiendaExaFinalS2.genruntimeconfig.cache
+C:\Users\Spoti\Desktop\ExamenFinal\TiendaExaFinalS2\obj\Debug\net8.0-windows\ref\TiendaExaFinalS2.dll
