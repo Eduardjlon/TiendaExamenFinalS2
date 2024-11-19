@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TiendaExaFinalS2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+305728b5887212182a63cc3e0460f04981d04792")]
 [assembly: System.Reflection.AssemblyProductAttribute("TiendaExaFinalS2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TiendaExaFinalS2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
